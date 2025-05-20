@@ -1,2 +1,2 @@
-# autohotkey-scripts
- Personal collection of AHK programs
+# **A**uto**H**ot**K**ey Scripts
+Personal collection of AHK programs.
