@@ -105,7 +105,7 @@ ToolTip "Start"
 ::sondarzach::sondażach
 ::przydażyło::przydarzyło
 ::jakis::jakiś
-::dąrzyć ::dążyć
+::dąrzyć::dążyć
 ; próba lepszego RegExa: [cjmp][ahjps]?[psvx]?a?
 #HotIf WinActive("\.(js|ts|mjs|cjs|tsx|jsx|m|java|cs|php|c|cpp) - .*?( - )?Visual Studio Code( \[Administrator\])?$ ahk_exe Code.exe") OR WinActive("ahk_exe MATLAB.exe") OR WinActive("ahk_exe MATLABWindow.exe")
 ::and::&&
